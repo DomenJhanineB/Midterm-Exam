@@ -1,0 +1,14 @@
+C:\BSIT-2\Project #1 Student Record Management System using LInked Lists\Student Record Management System\Student Record Management System\bin\Debug\net9.0\Student Record Management System.exe
+C:\BSIT-2\Project #1 Student Record Management System using LInked Lists\Student Record Management System\Student Record Management System\bin\Debug\net9.0\Student Record Management System.deps.json
+C:\BSIT-2\Project #1 Student Record Management System using LInked Lists\Student Record Management System\Student Record Management System\bin\Debug\net9.0\Student Record Management System.runtimeconfig.json
+C:\BSIT-2\Project #1 Student Record Management System using LInked Lists\Student Record Management System\Student Record Management System\bin\Debug\net9.0\Student Record Management System.dll
+C:\BSIT-2\Project #1 Student Record Management System using LInked Lists\Student Record Management System\Student Record Management System\bin\Debug\net9.0\Student Record Management System.pdb
+C:\BSIT-2\Project #1 Student Record Management System using LInked Lists\Student Record Management System\Student Record Management System\obj\Debug\net9.0\Student Record Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\BSIT-2\Project #1 Student Record Management System using LInked Lists\Student Record Management System\Student Record Management System\obj\Debug\net9.0\Student Record Management System.AssemblyInfoInputs.cache
+C:\BSIT-2\Project #1 Student Record Management System using LInked Lists\Student Record Management System\Student Record Management System\obj\Debug\net9.0\Student Record Management System.AssemblyInfo.cs
+C:\BSIT-2\Project #1 Student Record Management System using LInked Lists\Student Record Management System\Student Record Management System\obj\Debug\net9.0\Student Record Management System.csproj.CoreCompileInputs.cache
+C:\BSIT-2\Project #1 Student Record Management System using LInked Lists\Student Record Management System\Student Record Management System\obj\Debug\net9.0\Student Record Management System.dll
+C:\BSIT-2\Project #1 Student Record Management System using LInked Lists\Student Record Management System\Student Record Management System\obj\Debug\net9.0\refint\Student Record Management System.dll
+C:\BSIT-2\Project #1 Student Record Management System using LInked Lists\Student Record Management System\Student Record Management System\obj\Debug\net9.0\Student Record Management System.pdb
+C:\BSIT-2\Project #1 Student Record Management System using LInked Lists\Student Record Management System\Student Record Management System\obj\Debug\net9.0\Student Record Management System.genruntimeconfig.cache
+C:\BSIT-2\Project #1 Student Record Management System using LInked Lists\Student Record Management System\Student Record Management System\obj\Debug\net9.0\ref\Student Record Management System.dll
